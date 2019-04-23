@@ -446,6 +446,8 @@ card15.querySelector('div').textContent= value
  document.querySelector("#Ounces").textContent = value * 16;
 }
 
+function convertShekels(value)
+
 card1.querySelector('h4').textContent="Nails:"
 card2.querySelector('h4').textContent="Fingers:"
 card3.querySelector('h4').textContent="Spans:"
@@ -479,7 +481,495 @@ card13.querySelector('div').textContent= value
 card14.querySelector('div').textContent= value
 card15.querySelector('div').textContent= value
 
+function convertLitra(value)
 
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertMina(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertTalent(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertKikkar(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertCubits(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertYards(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertMeters(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertMiles(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertFingers(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertPalms(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertHands(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertFeet(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertCentimeters(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
+
+function convertInches(value)
+
+card1.querySelector('h4').textContent="Nails:"
+card2.querySelector('h4').textContent="Fingers:"
+card3.querySelector('h4').textContent="Spans:"
+card4.querySelector('h4').textContent="Yojana Stages:"
+card5.querySelector('h4').textContent="Dhanush Bows:"
+card6.querySelector('h4').textContent="Master Cubits:"
+card7.querySelector('h4').textContent="Common Cubits:"
+card8.querySelector('h4').textContent="Double Common Cubits:"
+card9.querySelector('h4').textContent="Half Yards:"
+card10.querySelector('h4').textContent="Palms:"
+card11.querySelector('h4').textContent="Half Cubits:"
+card12.querySelector('h4').textContent="Feet:"
+card13.querySelector('h4').textContent="Inches:"
+card14.querySelector('h4').textContent="One 24th Cubits:"
+card15.querySelector('h4').textContent="Royal Cubits:"
+
+
+card1.querySelector('div').textContent= value
+card2.querySelector('div').textContent= value
+card3.querySelector('div').textContent= value
+card4.querySelector('div').textContent= value
+card5.querySelector('div').textContent= value
+card6.querySelector('div').textContent= value
+card7.querySelector('div').textContent= value
+card8.querySelector('div').textContent= value
+card9.querySelector('div').textContent= value
+card10.querySelector('div').textContent= value
+card11.querySelector('div').textContent= value
+card12.querySelector('div').textContent= value
+card13.querySelector('div').textContent= value
+card14.querySelector('div').textContent= value
+card15.querySelector('div').textContent= value
 
     // NFL Secrets
 
